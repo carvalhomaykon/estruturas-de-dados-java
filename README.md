@@ -42,11 +42,30 @@ Dentro de cada pasta:
 - `atividades/` → enunciados de exercícios e desafios.
 
 ## 🚀 Como executar os exemplos
+### ☕ Pré-requisitos
+Antes de executar os exemplos, você precisa ter o Java Development Kit (JDK 17 ou superior) instalado.
+- Verifique se o Java já está instalado:
+    ```bash
+    java -version
+    javac -version
+- Se não tiver instalado, siga:
+    - [Documentação Oficial]("https://www.oracle.com/java/technologies/downloads/")
+    - [Assista ao vídeo]("https://youtu.be/KwaGEF3asQQ?si=Ev35aXWCld9Fa4GK")
+
 1. Clone este repositório:
    ```bash
    git clone https://github.com/carvalhomaykon/estruturas-de-dados-java.git
-2. Importe o projeto em sua IDE Java (Eclipse, IntelliJ, VS Code, etc.).
-3. Compile e execute os exemplos disponíveis em cada módulo.
+   cd estruturas-de-dados-java
+2. Acesse a pasta do exemplo que deseja rodar:
+    ```bash
+    Exemplo:
+    cd 02-listas/exemplos
+3. Compile o arquivo .java com o comando:
+    ```bash
+    javac NomeDoArquivo.java
+4. Execute o programa compilado:
+    ```bash
+    java NomeDoArquivo
 
 ## 🛠️ Instalar e Configurar o Git
 Caso ainda não tenha o Git instalado, siga a [Documentação Oficial]("https://git-scm.com/downloads") para instalação e configuração.
@@ -54,8 +73,10 @@ Caso ainda não tenha o Git instalado, siga a [Documentação Oficial]("https://
 ## 🤝 Como Contribuir
 Se deseja contribuir com este projeto:
 1. Faça um fork do repositório:
+2. Clone o repositório:
     ```bash
-    git clone https://github.com/carvalhomaykon/estruturas-de-dados-java.git
+    git clone <link do seu fork>
+    Ex.: git clone https://github.com/carvalhomaykon/estruturas-de-dados-java.git
 
 2. Crie uma branch para a sua contribuição:
     ```bash
@@ -77,7 +98,19 @@ Se deseja contribuir com este projeto:
 > 💡 Sugestão: siga a estrutura existente (resumos, exemplos e atividades) para manter a organização.
 
 ## 📢 Canal monitoria (Discord)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yaY48r2q)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yaY48r2q)  
+Nó canal você poderá:
+- Tirar dúvida;
+- Enviar trechos de código;
+- Interagir com outros colegas;
+- Acompanhar produção de exemplos e resolução de exercícios ao vivo.
+
+📖 **Sessões de Monitoria**:
+| Dia da Semana  |    Horário    |
+| -------------  | ------------- |
+| Terça          | 08:00 - 10:00 |
+| Quinta         | 14:00 - 16:00 |
+| Sexta          | 14:00 - 16:00 |
 
 ## 📚 Referência Bibliográfica
 ASCENCIO, Ana Fernandes Gomes; ARAÚJO, Graziela Santos De. Estruturas de dados: algoritmos, análise da complexidade e implementações em java e c/c++. São Paulo: Pearson Education do Brasil, 2010. 432 p. ISBN 9788576058816.
