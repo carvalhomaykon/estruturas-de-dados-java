@@ -1,5 +1,3 @@
-package lista;
-
 import java.util.List;
 
 public class ListaCircularSimples {

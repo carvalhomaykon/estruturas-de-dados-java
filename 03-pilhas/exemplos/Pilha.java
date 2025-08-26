@@ -1,5 +1,3 @@
-package pilhas;
-
 import java.util.Scanner;
 
 public class Pilha {

@@ -1,5 +1,3 @@
-package lista;
-
 public class ListaDupla {
 
     public static void main(String[] args) {

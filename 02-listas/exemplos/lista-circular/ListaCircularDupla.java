@@ -1,5 +1,3 @@
-package lista;
-
 public class ListaCircularDupla {
     public static void main(String[] args) {
 

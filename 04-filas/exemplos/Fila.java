@@ -1,5 +1,3 @@
-package filas;
-
 import java.util.Scanner;
 
 public class Fila {
