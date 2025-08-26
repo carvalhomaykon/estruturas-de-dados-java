@@ -49,8 +49,8 @@ Antes de executar os exemplos, você precisa ter o Java Development Kit (JDK 17 
     java -version
     javac -version
 - Se não tiver instalado, siga:
-    - [Documentação Oficial]("https://www.oracle.com/java/technologies/downloads/")
-    - [Assista ao vídeo]("https://youtu.be/KwaGEF3asQQ?si=Ev35aXWCld9Fa4GK")
+    - [Documentação Oficial](https://www.oracle.com/java/technologies/downloads/)
+    - [Assista ao vídeo](https://youtu.be/KwaGEF3asQQ?si=Ev35aXWCld9Fa4GK)
 
 1. Clone este repositório:
    ```bash
@@ -68,7 +68,7 @@ Antes de executar os exemplos, você precisa ter o Java Development Kit (JDK 17 
     java NomeDoArquivo
 
 ## 🛠️ Instalar e Configurar o Git
-Caso ainda não tenha o Git instalado, siga a [Documentação Oficial]("https://git-scm.com/downloads") para instalação e configuração.
+Caso ainda não tenha o Git instalado, siga a [Documentação Oficial](https://git-scm.com/downloads) para instalação e configuração.
 
 ## 🤝 Como Contribuir
 Se deseja contribuir com este projeto:
